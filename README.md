@@ -1,6 +1,6 @@
 # Yalla Survey
 
-It is a template app that allows the user to watch ads - which the app owner should add later - and get money in return. Simple UI/UX was translated into code with bloc state management.
+It is a template app that allows the user to answer and create surveys - which any user can add later - and get money in return. Simple UI/UX was translated into code with bloc state management.
 
 ## Features:
 - Interactive elements.
