@@ -33,7 +33,7 @@ class SolveSurveyView extends StatelessWidget {
                 child: Padding(
                   padding: EdgeInsets.all(16.h),
                   child: Text(
-                    'dsad sad sad sad sad sadsadsa ds a fef adf dfg dsfg dsf daf sadf sad sad sad sad sad asd asd asd sa as fsaf saf saf asf asf saf saf saf saf sa fsaf saf asf saf saf as fasdsad sad sad sad sad sadsadsa ds a fef adf dfg dsfg dsf daf sadf sad sad sad sad sad asd asd asd sa as fsaf saf saf asf asf saf saf saf saf sa fsaf saf asf saf saf as fas',
+                    'Question Data .....',
                     style:
                         TextStyle(fontSize: 23.sp, fontWeight: FontWeight.w500),
                   ),

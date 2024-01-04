@@ -1,16 +1,39 @@
-# yalla_survey
+# Yalla Survey
 
-Get payed for solving some simple surveys
+It is a template app that allows the user to watch ads - which the app owner should add later - and get money in return. Simple UI/UX was translated into code with bloc state management.
 
-## Getting Started
+## Features:
+- Interactive elements.
+- Real-time bond information updates.
+- Clean and modular code following Flutter best practices.
+- State management using Bloc.
+- Responsive design for various device sizes.
+- Dynamic card updates with a brief, semi-transparent overlay.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Responsive Design:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Challenge: Ensuring responsiveness on different devices.
+- Solution: Employed responsive design principles, including flexible layouts and media queries.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contribution:
+- Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
+
+## Screenshots:
+- Sign Up Screen.
+<p float="left">
+  <img src="screenshots/signup_1.png" width="250" />
+  <img src="screenshots/signup_2.png" width="250" />
+  <img src="screenshots/signup_3.png" width="250" />
+</p>
+
+- Home Screen.
+<p float="left">
+  <img src="screenshots/Home_1.png" width="250" />
+  <img src="screenshots/Home_2.png" width="250" />
+  <img src="screenshots/Home_3.png" width="250" />
+</p>
+
+
+
